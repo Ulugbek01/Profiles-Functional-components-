@@ -1,0 +1,10 @@
+.user-profile h2,
+h3 {
+  margin: 0;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.user-profile {
+  margin-left: 20px;
+}
